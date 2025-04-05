@@ -17,8 +17,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdibrahim20&theme=radical&no-frame=true&title=Commits,Stars,PullRequest,Repositories,Followers,Issues" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdibrahim20&theme=gruvbox&no-frame=true&margin-w=10&row=2" />
 </p>
+
 
 ---
 
