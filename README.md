@@ -5,12 +5,12 @@
 
 ---
 
-<p align="center">
-  🔭 I’m currently working on a Laravel + Inertia + Filament-powered dashboard system.<br>
-  🌱 I’m currently diving deeper into Next.js, Tailwind CSS, and API security.<br>
-  💬 Ask me about Laravel, Vue, React, or full-stack development in general.<br>
-  ⚡ Fun fact: I build, break, and rebuild things just to learn better. 😄
-</p>
+### 👨‍💻 About Me
+
+I'm a passionate and detail-oriented full-stack web developer with a deep love for clean architecture and elegant code.  
+I enjoy solving real-world problems and turning ideas into scalable, user-friendly web applications.  
+My learning style is **hands-on and iterative** — I believe in building first, then refining, and always pushing to grow beyond the comfort zone.  
+Currently, I'm focused on **building powerful dashboard systems**, mastering **Next.js**, and contributing to impactful products.
 
 ---
 
@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdibrahim20&theme=gruvbox&no-frame=true&margin-w=10&row=2" />
 </p>
-
 
 ---
 
@@ -55,12 +54,30 @@ Role-based access, IP tracking, CRUD operations, content history monitoring, and
 
 ---
 
+### 📌 Popular Repositories
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [global-plus](https://github.com/mdibrahim20/global-plus) | Job platform with full admin/user roles, resume, and backup system | Laravel, Vue.js |
+| [student-billing-system](https://github.com/mdibrahim20/student-billing-system) | Billing & apartment management, Google Drive integration | Laravel, Vue.js |
+| [student-database-system](https://github.com/mdibrahim20/student-database-system) | User activity monitor, IP tracker, CRUD system | Laravel, MySQL |
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdibrahim20&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdibrahim20&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdibrahim20&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdibrahim20&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -73,4 +90,4 @@ Role-based access, IP tracking, CRUD operations, content history monitoring, and
 
 ---
 
-> "Every line of code is a step toward mastery. Keep building, keep learning."
+> _“Every line of code is a step toward mastery. Keep building, keep learning.”_
