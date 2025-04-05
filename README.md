@@ -54,38 +54,6 @@ Role-based access, IP tracking, CRUD operations, content history monitoring, and
 
 ---
 
-### 📌 Popular Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mdibrahim20/global-plus">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=global-plus&theme=tokyonight&border_color=30363d" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mdibrahim20/student-billing-system">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=student-billing-system&theme=tokyonight&border_color=30363d" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mdibrahim20/student-database-system">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=student-database-system&theme=tokyonight&border_color=30363d" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mdibrahim20/your-fourth-repo-name">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=your-fourth-repo-name&theme=tokyonight&border_color=30363d" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
