@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/21u5oAe" alt="Web Developer Banner" width="100%"/>
+<img src="https://imgur.com/gallery/banner-21u5oAe" alt="Web Developer Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Full-Stack Web Developer | Laravel Enthusiast | React & Next.js Explorer</h3>
