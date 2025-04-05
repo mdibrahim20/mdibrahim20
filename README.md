@@ -77,8 +77,9 @@ Role-based access, IP tracking, CRUD operations, content history monitoring, and
 ### 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdibrahim20&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdibrahim20&theme=react-dark&hide_border=true" />
 </p>
+
 
 
 ---
