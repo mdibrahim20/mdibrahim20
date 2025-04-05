@@ -56,11 +56,32 @@ Role-based access, IP tracking, CRUD operations, content history monitoring, and
 
 ### 📌 Popular Repositories
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [global-plus](https://github.com/mdibrahim20/global-plus) | Job platform with full admin/user roles, resume, and backup system | Laravel, Vue.js |
-| [student-billing-system](https://github.com/mdibrahim20/student-billing-system) | Billing & apartment management, Google Drive integration | Laravel, Vue.js |
-| [student-database-system](https://github.com/mdibrahim20/student-database-system) | User activity monitor, IP tracker, CRUD system | Laravel, MySQL |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/mdibrahim20/global-plus">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=global-plus&theme=dark&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/mdibrahim20/student-billing-system">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=student-billing-system&theme=dark&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/mdibrahim20/student-database-system">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=student-database-system&theme=dark&border_color=30363d" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/mdibrahim20/another-repo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdibrahim20&repo=another-repo&theme=dark&border_color=30363d" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
